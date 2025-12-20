@@ -1,8 +1,8 @@
-#🚀 Student Performance Index Predictor
+# 🚀 Student Performance Index Predictor
+ 
+## A GUI-based Machine Learning app built with Python & Streamlit that predicts student performance based on study hours and previous scores. This tool makes tracking student performance easy, interactive, and actionable 📊✨
 
-###A GUI-based Machine Learning app built with Python & Streamlit that predicts student performance based on study hours and previous scores. This tool makes tracking student performance easy, interactive, and actionable 📊✨
-
-##🔹 Project Overview
+## 🔹 Project Overview
 
 This project allows educators, students, and data enthusiasts to:
 
@@ -94,4 +94,5 @@ Matplotlib / Seaborn 🎨
 🔹 Try it Yourself
 
 Check out the code and explore the project here: [Your GitHub Link] 🔗
+
 
