@@ -24,33 +24,6 @@ This project strengthened skills in Python, Machine Learning, Streamlit, and dat
 ✅ User-friendly GUI
 ✅ Easy deployment and sharing
 
-### 🔹 Installation & Run
-
-#### Clone the repository
-
-git clone [Your GitHub Repo Link]
-cd Student-Performance-Predictor
-
-
-Create a virtual environment (optional but recommended)
-
-python -m venv venv
-source venv/bin/activate       # Mac/Linux
-venv\Scripts\activate          # Windows
-
-
-Install dependencies
-
-pip install -r requirements.txt
-
-
-Run the Streamlit app
-
-streamlit run student_performance_gui.py
-
-
-Input individual student data or upload CSV to get predictions and visualizations
-
 ## 🔹 Project Structure
 Student-Performance-Predictor/
 │
@@ -70,12 +43,6 @@ Visualizing data with charts and dynamic graphs
 
 Integrating pre-trained models with GUI for real-world usability
 
-## 🔹 Future Improvements
-
-Add more features (attendance, extra-curricular activities, etc.) for better prediction
-
-Deploy as a web app for public access
-
 Enhance visualizations with Plotly or Altair for richer interactivity
 
 ## 🔹 Technologies Used
@@ -93,6 +60,7 @@ Matplotlib / Seaborn 🎨
 ### Thank You! 
 Thank you so much for taking the time to check out my project. Your interest and support mean a lot to me. I hope you find it inspiring and maybe even spark some new ideas of your own! 💡✨
 Your feedback is always welcome! 📝
+
 
 
 
